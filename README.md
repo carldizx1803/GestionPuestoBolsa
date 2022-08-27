@@ -1,4 +1,4 @@
-# GestionPuestoBolsa COn Django y sqLite
+# GestionPuestoBolsa Con Django y sqLite
 Proyecto Final INF-421-01 LENGUAJES DE PROGRAMACIÓN I
 Maestro: Gabriel Villalona
 UNIVERSIDAD NACIONAL PEDRO HENRIQUEZ UEÑA (UNPHU)
